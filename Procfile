@@ -1,0 +1,1 @@
+worker: python bletchley.bot.py bletchley.txt
