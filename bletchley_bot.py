@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from __future__ import unicode_literals
-from random import randint
-
 import tweepy
 import time
 import sys
 import os
+
+from random import randint
 
 argfile = str(sys.argv[1])
 
